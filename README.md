@@ -7,24 +7,24 @@ The Home Workout Plan App is a simple Android application designed to help users
 1. **BMI Calculator**
    - Enter your height and weight to calculate your BMI.
    - BMI category (Underweight, Normal Weight, Overweight, Obese) is displayed based on the calculated BMI.
-   - 
+
 2. **Workout Selection**
    - Choose from different workout types like Cardio, Body Weight, and Core.
    - Each selection provides a brief description of the workout type.
 
 ## Screenshots
-1. HomePage
-   ![image](https://github.com/user-attachments/assets/e94feb24-e93b-4c3d-b60e-14c766852963)
-   
-2. BMI Calculator Usage
-   ![image](https://github.com/user-attachments/assets/68ced56b-1c08-4dc4-8e08-20f81e314feb)
-   
-3. Workout Plan Options(Spinner)
-   ![image](https://github.com/user-attachments/assets/931a8012-1f38-4ebb-823e-90287c1dd568)
-   
-4. Workout Plan Display
-   	![image](https://github.com/user-attachments/assets/8cad9ffb-a3e7-4fdc-8640-c13489f7bc36)
 
+1. **HomePage**
+   ![HomePage](https://github.com/user-attachments/assets/e94feb24-e93b-4c3d-b60e-14c766852963?s=300)
+
+2. **BMI Calculator Usage**
+   ![BMI Calculator](https://github.com/user-attachments/assets/68ced56b-1c08-4dc4-8e08-20f81e314feb?s=300)
+
+3. **Workout Plan Options (Spinner)**
+   ![Workout Plan Options](https://github.com/user-attachments/assets/931a8012-1f38-4ebb-823e-90287c1dd568?s=300)
+
+4. **Workout Plan Display**
+   ![Workout Plan Display](https://github.com/user-attachments/assets/8cad9ffb-a3e7-4fdc-8640-c13489f7bc36?s=300)
 
 ## Getting Started
 
