@@ -14,16 +14,16 @@ The Home Workout Plan App is a simple Android application designed to help users
 
 ## Screenshots
 
-1. **HomePage**
+### 1. **HomePage**
    ![HomePage](https://github.com/user-attachments/assets/e94feb24-e93b-4c3d-b60e-14c766852963?s=100)
 
-2. **BMI Calculator Usage**
+### 2. **BMI Calculator Usage**
    ![BMI Calculator](https://github.com/user-attachments/assets/68ced56b-1c08-4dc4-8e08-20f81e314feb?s=100)
 
-3. **Workout Plan Options (Spinner)**
+### 3. **Workout Plan Options (Spinner)**
    ![Workout Plan Options](https://github.com/user-attachments/assets/931a8012-1f38-4ebb-823e-90287c1dd568?s=100)
 
-4. **Workout Plan Display**
+### 4. **Workout Plan Display**
    ![Workout Plan Display](https://github.com/user-attachments/assets/8cad9ffb-a3e7-4fdc-8640-c13489f7bc36?s=100)
 
 ## Getting Started
